@@ -1,11 +1,10 @@
 # ele-app
 
-## Project setup
+## 使用vue.js模仿饿了么app
+## 运行步骤
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
